@@ -5,7 +5,6 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 import xgboost as xgb
-import holidays
 from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
 
